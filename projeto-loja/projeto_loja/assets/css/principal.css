@@ -1,0 +1,22 @@
+#abas{
+    background-color: white;
+    overflow: auto;
+}
+
+#abas ul{
+    display: inline;
+}
+
+#abas ul li{
+    display: inline-block;
+    border: solid 1px darkslategrey;
+    padding: 5px 15px;
+    border-radius: 5px 5px 0px 0px;
+}
+.conteudo{
+    border: 1px solid darkslategrey;
+    padding: 10px;
+}
+.selecionado{
+    background-color: lightgrey;
+}

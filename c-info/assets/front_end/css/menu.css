@@ -1,0 +1,60 @@
+#menu {
+    background-color: white;
+}
+
+#logo {
+    margin-bottom: -4px
+}
+
+#logo img {
+    height: auto;
+    width: 100px
+}
+
+#right {
+    margin-bottom: -2px
+
+}
+
+.ui.nag.comentarios {
+    background-color: transparent;
+    text-align: left;
+}
+
+
+.home-banner:before {
+
+    /*content: "";
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: -1;
+
+    height: 110%;
+    max-height: 110%;
+    max-width: 110%;
+    background: url("../../files/img/bg404.jpg") no-repeat center center;
+
+    filter: blur(3px);*/
+}
+
+@media only screen and (max-width: 767px) {
+    #menu {
+        /*background-color: black;*/
+        visibility: unset;
+
+
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    #some{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    #aparecer{
+        display: none;
+    }
+}

@@ -1,0 +1,364 @@
+[
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e0864005489"
+        },
+        "codigo": "5b6797ba77f17",
+        "titulo": "olhai",
+        "tipo": "pie",
+        "data": "2018-08-06 02:35:06",
+        "user": "eita",
+        "dados": [
+            {
+                "nome": "COMPANHIA NACIONAL DE ABASTECIMENTO",
+                "gasto": "2182436855.93",
+                "codigo": "22211"
+            },
+            {
+                "nome": "CONAB - SEDE SUREG SAO PAULO",
+                "gasto": "25152208.36",
+                "codigo": "135325"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e086400548a"
+        },
+        "codigo": "5b688205e38ec",
+        "titulo": "a",
+        "tipo": "pie",
+        "data": "2018-08-06 19:14:45",
+        "user": null,
+        "dados": [
+            {
+                "nome": "COORDENACAO-GERAL DE GESTAO DE PESSOAS",
+                "gasto": "2322404943.08",
+                "codigo": "201005"
+            },
+            {
+                "nome": "ESCOLA NACIONAL DA ADMINISTRACAO PUBLICA-ENAP",
+                "gasto": "54795527.07",
+                "codigo": "47210"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e086400548b"
+        },
+        "codigo": "5b68820712984",
+        "titulo": "a",
+        "tipo": "pie",
+        "data": "2018-08-06 19:14:47",
+        "user": null,
+        "dados": [
+            {
+                "nome": "COORDENACAO-GERAL DE GESTAO DE PESSOAS",
+                "gasto": "2322404943.08",
+                "codigo": "201005"
+            },
+            {
+                "nome": "ESCOLA NACIONAL DA ADMINISTRACAO PUBLICA-ENAP",
+                "gasto": "54795527.07",
+                "codigo": "47210"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e086400548c"
+        },
+        "codigo": "5b68d39bbf65a",
+        "titulo": "olhai",
+        "tipo": "doughnut",
+        "data": "2018-08-07 01:02:51",
+        "user": "olhai",
+        "dados": [
+            {
+                "nome": "COORDENACAO DE EXECUCAO ORC. E FINANCEIRA",
+                "gasto": "600172496.8",
+                "codigo": "201013"
+            },
+            {
+                "nome": "COORDENACAO-GERAL DE GESTAO DE PESSOAS",
+                "gasto": "2322404943.08",
+                "codigo": "201005"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e086400548d"
+        },
+        "codigo": "5b68d62e9c4dc",
+        "titulo": "olhai",
+        "tipo": "pie",
+        "data": "2018-08-07 01:13:50",
+        "user": "olhai",
+        "dados": [
+            {
+                "nome": "COORDENACAO-GERAL DE GESTAO DE PESSOAS",
+                "gasto": "2322404943.08",
+                "codigo": "201005"
+            },
+            {
+                "nome": "ESCOLA NACIONAL DA ADMINISTRACAO PUBLICA-ENAP",
+                "gasto": "54795527.07",
+                "codigo": "47210"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e086400548e"
+        },
+        "codigo": "5b68d66244ee8",
+        "titulo": "olhai",
+        "tipo": "pie",
+        "data": "2018-08-07 01:14:42",
+        "user": "olhai",
+        "dados": [
+            {
+                "nome": "CENTRAL DE COMPRAS E CONTRATACOES - CENTRAL",
+                "gasto": "1571466.1",
+                "codigo": "201057"
+            },
+            {
+                "nome": "CENTRO CULTURAL PACO IMPERIAL-RJ",
+                "gasto": "2640162.28",
+                "codigo": "343023"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e086400548f"
+        },
+        "codigo": "5b68d6cfc668c",
+        "titulo": "olhai",
+        "tipo": "pie",
+        "data": "2018-08-07 01:19:11",
+        "user": "olhai",
+        "dados": [
+            {
+                "nome": "AGENCIA NACIONAL DO CINEMA \u00b1 ANCINE",
+                "gasto": "873147194.39",
+                "codigo": "42206"
+            },
+            {
+                "nome": "ASSESSORIA DE COMUNICACAO SOCIAL",
+                "gasto": "10510426.8",
+                "codigo": "420017"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e0864005490"
+        },
+        "codigo": "5b68d7ff2483b",
+        "titulo": "olhai",
+        "tipo": "doughnut",
+        "data": "2018-08-07 01:21:35",
+        "user": "olhai",
+        "dados": [
+            {
+                "nome": "CONAB - SEDE SUREG SAO PAULO",
+                "gasto": "25152208.36",
+                "codigo": "135325"
+            },
+            {
+                "nome": "CONAB SEDE SUREG ACRE",
+                "gasto": "4857126.76",
+                "codigo": "135605"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e0864005491"
+        },
+        "codigo": "5b68d81d4537f",
+        "titulo": "olhai",
+        "tipo": "pie",
+        "data": "2018-08-07 01:22:05",
+        "user": "olhai",
+        "dados": [
+            {
+                "nome": "COORDENACAO DE EXECUCAO ORC. E FINANCEIRA",
+                "gasto": "600172496.8",
+                "codigo": "201013"
+            },
+            {
+                "nome": "COORDENACAO-GERAL DE GESTAO DE PESSOAS",
+                "gasto": "2322404943.08",
+                "codigo": "201005"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e0864005492"
+        },
+        "codigo": "5b68d85cb0064",
+        "titulo": "olhai",
+        "tipo": "pie",
+        "data": "2018-08-07 01:23:08",
+        "user": "olhai",
+        "dados": [
+            {
+                "nome": "COORDENACAO-GERAL DE GESTAO DE PESSOAS",
+                "gasto": "2322404943.08",
+                "codigo": "201005"
+            },
+            {
+                "nome": "ESCOLA NACIONAL DA ADMINISTRACAO PUBLICA-ENAP",
+                "gasto": "54795527.07",
+                "codigo": "47210"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e0864005493"
+        },
+        "codigo": "5b68d8a8261f3",
+        "titulo": "eita",
+        "tipo": "pie",
+        "data": "2018-08-07 01:24:24",
+        "user": "olhai",
+        "dados": [
+            {
+                "nome": "AGENCIA NACIONAL DE TELECOMUNICACOES-CE",
+                "gasto": "3144575.02",
+                "codigo": "413010"
+            },
+            {
+                "nome": "AGENCIA NACIONAL DE TELECOMUNICACOES-GO",
+                "gasto": "3229046.37",
+                "codigo": "413008"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e0864005494"
+        },
+        "codigo": "5b731f50271e9",
+        "titulo": "graficozin",
+        "tipo": "doughnut",
+        "data": "2018-08-14 20:28:32",
+        "user": "fez",
+        "dados": [
+            {
+                "nome": "SECRETARIA ESPECIAL MICRO E PEQUENA EMPRESA",
+                "gasto": "6225481.49",
+                "codigo": "280124"
+            },
+            {
+                "nome": "SUPERINTENDENCIA DA ZONA FRANCA DE MANAUS",
+                "gasto": "178065235.07",
+                "codigo": "28233"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e0864005495"
+        },
+        "codigo": "5b7635e1a1c6e",
+        "titulo": "Laborat\u00f3rios agropec\u00faarios",
+        "tipo": "pie",
+        "data": "2018-08-17 04:41:37",
+        "user": "LukDuk",
+        "dados": [
+            {
+                "nome": "LABORATORIO NACIONAL AGROPECUARIO\/MG",
+                "gasto": "30830640.48",
+                "codigo": "130058"
+            },
+            {
+                "nome": "LABORATORIO NACIONAL AGROPECUARIO\/PE",
+                "gasto": "12627414.67",
+                "codigo": "130016"
+            },
+            {
+                "nome": "LABORATORIO NACIONAL AGROPECUARIO\/RS",
+                "gasto": "12563115.83",
+                "codigo": "130103"
+            },
+            {
+                "nome": "LABORATORIO NACIONAL AGROPECUARIO\/SP",
+                "gasto": "31367540.58",
+                "codigo": "130102"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e0864005496"
+        },
+        "codigo": "5b763a769e073",
+        "titulo": "Universidades Federais do Sul",
+        "tipo": "doughnut",
+        "data": "2018-08-17 05:01:10",
+        "user": "LukDuk",
+        "dados": [
+            {
+                "nome": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+                "gasto": "1551173376.22",
+                "codigo": "26246"
+            },
+            {
+                "nome": "UNIVERSIDADE FEDERAL DO PARANA",
+                "gasto": "1454016259.76",
+                "codigo": "153079"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e0864005497"
+        },
+        "codigo": "5b763ce7e6ccd",
+        "titulo": "Imprensa do governo vs Estudos e Projetos",
+        "tipo": "pie",
+        "data": "2018-08-17 05:11:35",
+        "user": "LukDuk",
+        "dados": [
+            {
+                "nome": "FINANCIADORA DE ESTUDOS E PROJETOS",
+                "gasto": "150906499.39",
+                "codigo": "20502"
+            },
+            {
+                "nome": "FUNDO DE IMPRENSA NACIONAL",
+                "gasto": "195425386.2",
+                "codigo": "20927"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc3aac9607d9e0864005498"
+        },
+        "codigo": "5b77029ca864e",
+        "titulo": "Comp",
+        "tipo": "doughnut",
+        "data": "2018-08-17 19:15:08",
+        "user": "LukDuk",
+        "dados": [
+            {
+                "nome": "ESC DE DIFUS\u00c3O REGIONAL SUL I",
+                "gasto": "97705.98",
+                "codigo": "183042"
+            },
+            {
+                "nome": "ESCRIT\u00d3RIO DE DIFUS\u00c3O REGIONAL CENTRO-OESTE",
+                "gasto": "513927.31",
+                "codigo": "183043"
+            }
+        ]
+    }
+]
